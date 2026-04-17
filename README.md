@@ -1,1 +1,1 @@
-https://github.com/vorobeyka2009-droid/ono-tebe-nado.git
+https://github.com/vorobeyka2009-droid/ono-tebe-nado
